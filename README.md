@@ -37,7 +37,13 @@
    - **Job Postings:** Scan job postings on company career pages. Python-related job descriptions or required skills can indicate a Python tech stack.
 
    - **Third-Party Databases:** Use third-party databases and tools that provide information about a company's technology stack, such as BuiltWith or SimilarTech.
-
+-  Here are five well-known companies that are known to use Python in their tech stack:
+Google
+Facebook
+Dropbox
+Instagram
+Netflix
+ - **Industry News and Reports:** Often, technology-related news articles and reports will mention companies known for their use of Python in their tech stack.
 5. **Sending LinkedIn Messages via API:**
    LinkedIn doesn't officially provide a public API for sending messages to other users. However, LinkedIn does offer a Messaging API, but it's typically limited to approved LinkedIn partners. To send LinkedIn messages, you might need to consider the following:
 
